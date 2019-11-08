@@ -45,3 +45,9 @@ dotfiles add .bashrc
 dotfiles commit -m "Add bashrc"
 dotfiles push
 ```
+
+## Install powerline
+
+``` shell
+./wsl-setup
+```
