@@ -49,5 +49,6 @@ dotfiles push
 ## Install powerline
 
 ``` shell
+chmod +x wsl-setup
 ./wsl-setup
 ```
