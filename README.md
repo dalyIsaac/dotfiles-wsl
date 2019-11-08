@@ -54,4 +54,4 @@ chmod +x wsl-setup
 ```
 
 ## Powerline for PowerShell
-https://gist.github.com/dalyIsaac/097f1b91b6b3e578831c45f939c1e89b
+[Powerline for Powershell.md](https://gist.github.com/dalyIsaac/097f1b91b6b3e578831c45f939c1e89b)
