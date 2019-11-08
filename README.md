@@ -9,9 +9,9 @@ Based on https://www.atlassian.com/git/tutorials/dotfiles
 ## Installation
 
 ``` shell
-alias dotfiles='/usr/bin/git --git-dir=$HOME/.fotfiles/ --work-tree=$HOME'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 echo ".dotfiles" >> .gitignore
-git clone --bare git@github.com:dalyIsaac/dotfiles.git $HOME/.dotfiles
+git clone --bare git@github.com:dalyIsaac/dotfiles-wsl.git $HOME/.dotfiles
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 ```
 
