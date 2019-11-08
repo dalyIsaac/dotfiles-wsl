@@ -1,0 +1,13 @@
+#!/bin/bash
+
+sudo -v
+
+# Update and upgrade
+sudo apt-get update
+sudo apt-get upgrade
+
+# Install go
+sudo apt install golang-go
+
+# Install powerline
+go get -u github.com/justjanne/powerline-go
